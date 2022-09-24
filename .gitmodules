@@ -1,3 +1,12 @@
 [submodule "RDMA-Tutorial"]
 	path = RDMA-Tutorial
 	url = https://github.com/vijaykalyanam/RDMA-Tutorial.git
+[submodule "rdma-core"]
+	path = rdma-core
+	url = https://github.com/vijaykalyanam/rdma-core.git
+[submodule "perftest"]
+	path = perftest
+	url = https://github.com/vijaykalyanam/perftest.git
+[submodule "qperf"]
+	path = qperf
+	url = https://github.com/vijaykalyanam/qperf.git
